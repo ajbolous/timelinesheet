@@ -1,0 +1,10 @@
+<div class="row box" style=" margin-left:1%; height:100%; max-width:98%; background-color:#fafafa">
+    <div class="box" #graphviewer id=graphviewer style="height:420px; width:100%"> </div>
+
+    <table class="table" *ngIf="this.selectedProject != null">
+        <tr>
+            <td>{{this.selectedProject.name}}</td>
+            <td>{{this.selectedTask.name}}</td>
+        </tr>
+    </table>
+</div>

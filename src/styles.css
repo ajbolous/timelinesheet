@@ -1,0 +1,70 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+:root {
+    --main-color: aliceblue;
+    --navbar-backcolor: #444;
+}
+
+html,
+body {
+    font-family: 'Roboto', sans-serif !important;
+    background-color: #fafafa;
+    height: 100%;
+}
+
+.navbar-default {
+    background-color: var( --navbar-backcolor);
+    border: none;
+    /* box-shadow: 0 0px 0px 0 rgb(59, 120, 231), 0 2px 2px 0 rgb(59, 120, 231); */
+    font-size: 16px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    background-color: var( --navbar-backcolor);
+    color: #fafafa;
+}
+
+.navbar-default .navbar-nav>li.activel>a {
+    background-color: #333;
+    color: var( --navbar-backcolor);
+}
+
+.box {
+    background-color: white;
+    padding-top: 1px;
+    margin: 0;
+    box-shadow: 2px 4px 2px -4px #333, 2px -2px 4px -4px #333;
+}
+
+.box-animated {
+    transition: box-shadow .2s;
+    -webkit-transition: box-shadow .2s;
+    -o-transition: box-shadow .2s;
+}
+
+.box-animated:hover {
+    box-shadow: 0 5px 4px -4px var(--main-color), 0 -4px 8px -4px var(--main-color);
+}
+
+hr.lblue {
+    height: 1px;
+    background-image: linear-gradient(to right, var(--main-color), #ccc, var(--main-color));
+}
+
+hr.lblue-small {
+    height: 1px;
+    background-image: linear-gradient(to right, white, var(--main-color), white);
+}
+
+.project-task {
+    opacity: 0.5;
+}
+
+.project-task:hover {
+    opacity:1;
+}
+.tooltip {
+    opacity:0.5;
+    background:'white'
+}

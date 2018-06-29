@@ -1,0 +1,157 @@
+{
+    "children": [{
+            "children": [{
+                "children": [],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/AppServiceRG/providers/Microsoft.Network/virtualNetworks/Contoso-vnet/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/AppServiceRG/providers/Microsoft.Network/virtualNetworks/Contoso-vnet"
+        },
+        {
+            "children": [{
+                "children": [{
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ContosoWeb/providers/Microsoft.Network/networkInterfaces/contosowebdc596"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ContosoWeb/providers/Microsoft.Network/networkInterfaces/contosowebfe1735"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ContosoWeb/providers/Microsoft.Network/networkInterfaces/contosowebbe3782"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ContosoWeb/providers/Microsoft.Network/networkInterfaces/contosowebbe2178"
+                    }
+                ],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ContosoWeb/providers/Microsoft.Network/virtualNetworks/ContosoWeb-vnet/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ContosoWeb/providers/Microsoft.Network/virtualNetworks/ContosoWeb-vnet"
+        },
+        {
+            "children": [{
+                "children": [],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/efimsf/providers/Microsoft.Network/virtualNetworks/VNet-efimsf/subnets/Subnet-0"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/efimsf/providers/Microsoft.Network/virtualNetworks/VNet-efimsf"
+        },
+        {
+            "children": [{
+                "children": [],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/efimss/providers/Microsoft.Network/virtualNetworks/efimssVnet/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/efimss/providers/Microsoft.Network/virtualNetworks/efimssVnet"
+        },
+        {
+            "children": [{
+                "children": [],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/msftWafSep19/providers/Microsoft.Network/virtualNetworks/icrosoftWaf/subnets/external"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/msftWafSep19/providers/Microsoft.Network/virtualNetworks/icrosoftWaf"
+        },
+        {
+            "children": [{
+                "children": [{
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL1/providers/Microsoft.Network/networkInterfaces/vm1wl916"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL1/providers/Microsoft.Network/networkInterfaces/vm2wl336"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL1/providers/Microsoft.Network/networkInterfaces/vm3wl685"
+                    }
+                ],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL1/providers/Microsoft.Network/virtualNetworks/WL1-vnet/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL1/providers/Microsoft.Network/virtualNetworks/WL1-vnet"
+        },
+        {
+            "children": [{
+                "children": [{
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL2/providers/Microsoft.Network/networkInterfaces/vm4wl971"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL2/providers/Microsoft.Network/networkInterfaces/vm5wl73"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL2/providers/Microsoft.Network/networkInterfaces/vm6wl937"
+                    }
+                ],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL2/providers/Microsoft.Network/virtualNetworks/WL2-vnet/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL2/providers/Microsoft.Network/virtualNetworks/WL2-vnet"
+        },
+        {
+            "children": [{
+                "children": [{
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMO/providers/Microsoft.Network/networkInterfaces/vm1redhat457"
+                    },
+                    {
+                        "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMO/providers/Microsoft.Network/networkInterfaces/vm2ubuntu910"
+                    }
+                ],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMO/providers/Microsoft.Network/virtualNetworks/VNet3/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMO/providers/Microsoft.Network/virtualNetworks/VNet3"
+        },
+        {
+            "children": [{
+                    "children": [{
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/networkInterfaces/vm1Nic"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/networkInterfaces/vm2Nic"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/networkInterfaces/vm3Nic"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/networkInterfaces/vm4Nic"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMORG/providers/Microsoft.Network/networkInterfaces/vm1336"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMORG/providers/Microsoft.Network/networkInterfaces/vm5ws2016250"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ASCDEMORG/providers/Microsoft.Network/networkInterfaces/checkpoint-firewall-17"
+                        }
+                    ],
+                    "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/virtualNetworks/VNet1/subnets/Subnet1"
+                },
+                {
+                    "children": [],
+                    "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/virtualNetworks/VNet1/subnets/Subnet2"
+                }
+            ],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/virtualNetworks/VNet1"
+        },
+        {
+            "children": [{
+                    "children": [{
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/networkInterfaces/vm1linNic"
+                        },
+                        {
+                            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/networkInterfaces/vm2linNic"
+                        }
+                    ],
+                    "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/virtualNetworks/VNet2/subnets/Subnet1"
+                },
+                {
+                    "children": [],
+                    "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/virtualNetworks/VNet2/subnets/Subnet2"
+                }
+            ],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/ascdemoRG/providers/Microsoft.Network/virtualNetworks/VNet2"
+        },
+        {
+            "children": [{
+                "children": [{
+                    "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL3/providers/Microsoft.Network/networkInterfaces/vm7wl172"
+                }],
+                "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL3/providers/Microsoft.Network/virtualNetworks/WL3-vnet/subnets/default"
+            }],
+            "id": "/subscriptions/212f9889-769e-45ae-ab43-6da33674bd26/resourceGroups/WL3/providers/Microsoft.Network/virtualNetworks/WL3-vnet"
+        }
+    ],
+    "id": "212f9889-769e-45ae-ab43-6da33674bd26",
+    "type": "Subscription"
+}
